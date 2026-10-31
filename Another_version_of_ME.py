@@ -2762,7 +2762,7 @@ muteBtn.addEventListener(
 # =========================================================
 
 st.logo(
-    "resources/logo.png",
+    "logo.png",
     size="large"
 )
 
