@@ -29,9 +29,7 @@ def to_base64(path):
 # 读取资源
 # =========================================================
 
-gif_b64 = to_base64(
-    "./第7章：AI应用/resources/background.GIF"
-)
+gif_b64 = to_base64("resources/background.GIF")
 
 audio_b64 = to_base64(
     "./第7章：AI应用/resources/Dancin.mp3"
