@@ -1999,7 +1999,7 @@ st.write("")
 # =========================================================
 
 st.image(
-    "./第7章：AI应用/resources/FUCK.PNG"
+    "FUCK.PNG"
 )
 
 
@@ -2762,7 +2762,7 @@ muteBtn.addEventListener(
 # =========================================================
 
 st.logo(
-    "./第7章：AI应用/resources/logo.png",
+    "resources/logo.png",
     size="large"
 )
 
