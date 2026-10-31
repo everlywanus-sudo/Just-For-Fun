@@ -31,17 +31,11 @@ def to_base64(path):
 
 gif_b64 = to_base64("background.GIF")
 
-audio_b64 = to_base64(
-    "./第7章：AI应用/resources/Dancin.mp3"
-)
+audio_b64 = to_base64("Dancin.mp3")
 
-video_b64 = to_base64(
-    "./第7章：AI应用/resources/MYLIFE.mp4"
-)
+video_b64 = to_base64("MYLIFE.mp4")
 
-bgm_b64 = to_base64(
-    "./第7章：AI应用/resources/bgmusic.mp3"
-)
+bgm_b64 = to_base64("bgmusic.mp3")
 
 
 # =========================================================
